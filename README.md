@@ -27,7 +27,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/anajuliakucharski?c
 </a>
 </p>
 
-🧠 Toolbox de Dados & Negócios
+### 🤖 Linguagens e Tecnologias
 <img
 align="left"
 alt="Python"
@@ -62,19 +62,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-ori
 />
 <img
 align="left"
-alt="Power BI"
-title="Power BI"
-width="30px"
-style="padding-right: 10px;"
-src="[https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png)"
-/>
-<img
-align="left"
 alt="Power Automate"
 title="Power Automate"
 width="30px"
 style="padding-right: 10px;"
-src="[https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20Automate.svg](https://pragmaticworks.com/hs-fs/hubfs/Microsoft_Power_Automate.svg.png?width=500&height=500&name=Microsoft_Power_Automate.svg.png)"
+src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg"
 />
 <img
 align="left"
