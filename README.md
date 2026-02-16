@@ -2,7 +2,7 @@
 
 **`Data Science for Business`**
 
-Me chamo Ana Júlia, tenho 20 anos e moro em Curitiba/PR. Estou no último ano de Ciência de Dados para Negócios na FAE Centro Universitário, onde também curso uma dupla graduação em Administração. Sou apaixonada por transformar dados em decisões estratégicas e atualmente atuo como estagiária de CX e Inovação na CNH, desenvolvendo plataformas de tomada de decisão baseada em dados.
+Oie, me chamo Ana Júlia e moro em Curitiba/PR. Estou no último ano de Ciência de Dados para Negócios na FAE Centro Universitário, onde também curso uma dupla graduação em Administração. Sou apaixonada por transformar dados em decisões estratégicas e atualmente atuo como estagiária de CX e Inovação na CNH, desenvolvendo plataformas de tomada de decisão baseada em dados.
 <p align="left">
 <a href="https://www.linkedin.com/in/anakucharski/">
 <img
